@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevOps\\DevOps docs\\training\\repoDevOps\\DevOps\\DevOps\\DevOps.csproj": {}
+    "C:\\Users\\imr\\source\\repos\\DevOps\\DevOps\\DevOps.csproj": {}
   },
   "projects": {
-    "D:\\DevOps\\DevOps docs\\training\\repoDevOps\\DevOps\\DevOps\\DevOps.csproj": {
+    "C:\\Users\\imr\\source\\repos\\DevOps\\DevOps\\DevOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevOps\\DevOps docs\\training\\repoDevOps\\DevOps\\DevOps\\DevOps.csproj",
+        "projectUniqueName": "C:\\Users\\imr\\source\\repos\\DevOps\\DevOps\\DevOps.csproj",
         "projectName": "DevOps",
-        "projectPath": "D:\\DevOps\\DevOps docs\\training\\repoDevOps\\DevOps\\DevOps\\DevOps.csproj",
+        "projectPath": "C:\\Users\\imr\\source\\repos\\DevOps\\DevOps\\DevOps.csproj",
         "packagesPath": "C:\\Users\\imr\\.nuget\\packages\\",
-        "outputPath": "D:\\DevOps\\DevOps docs\\training\\repoDevOps\\DevOps\\DevOps\\obj\\",
+        "outputPath": "C:\\Users\\imr\\source\\repos\\DevOps\\DevOps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

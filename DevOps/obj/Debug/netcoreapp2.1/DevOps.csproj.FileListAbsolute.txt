@@ -25,3 +25,16 @@ D:\DevOps\DevOps docs\training\repoDevOps\DevOps\DevOps\obj\Debug\netcoreapp2.1\
 D:\DevOps\DevOps docs\training\repoDevOps\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.RazorTargetAssemblyInfo.cache
 D:\DevOps\DevOps docs\training\repoDevOps\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.dll
 D:\DevOps\DevOps docs\training\repoDevOps\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.pdb
+C:\Users\imr\source\repos\DevOps\DevOps\bin\Debug\netcoreapp2.1\DevOps.deps.json
+C:\Users\imr\source\repos\DevOps\DevOps\bin\Debug\netcoreapp2.1\DevOps.runtimeconfig.json
+C:\Users\imr\source\repos\DevOps\DevOps\bin\Debug\netcoreapp2.1\DevOps.runtimeconfig.dev.json
+C:\Users\imr\source\repos\DevOps\DevOps\bin\Debug\netcoreapp2.1\DevOps.dll
+C:\Users\imr\source\repos\DevOps\DevOps\bin\Debug\netcoreapp2.1\DevOps.pdb
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.RazorAssemblyInfo.cache
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.RazorAssemblyInfo.cs
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.AssemblyInfoInputs.cache
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.AssemblyInfo.cs
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.RazorTargetAssemblyInfo.cache
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.dll
+C:\Users\imr\source\repos\DevOps\DevOps\obj\Debug\netcoreapp2.1\DevOps.pdb
